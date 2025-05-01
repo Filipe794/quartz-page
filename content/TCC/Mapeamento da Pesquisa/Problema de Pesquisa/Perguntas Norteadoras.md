@@ -1,0 +1,1 @@
+1. Quais perguntas eu preciso responder para atingir a resposta correta para a pergunta de pesquisa.

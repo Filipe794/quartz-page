@@ -1,0 +1,1 @@
+1. Formule uma pergunta de pesquisa, de forma clara e direta levando em consideração o delineamento do problema.
