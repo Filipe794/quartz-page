@@ -1,6 +1,5 @@
 ### 1. Definição Clara
-Como desenvolver um sistema de visão computacional que realize a contagem de pessoas, identifique o gênero (masculino/feminino) e estime a faixa etária dos indivíduos que circulam no Shopping de Caxias, com precisão, a partir de imagens capturadas por câmeras?
-
+Como desenvolver um sistema de visão computacional que realize a contagem de pessoas, identifique o gênero (masculino/feminino) e estime a faixa etária dos indivíduos com precisão, a partir de imagens capturadas por câmeras?
 ### 2. Relevância
 
 1. O monitoramento inteligente do fluxo de pessoas em centros comerciais tem se tornado cada vez mais importante para fins de segurança, marketing estratégico e alocação de recursos.
