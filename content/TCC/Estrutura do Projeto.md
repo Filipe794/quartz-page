@@ -1,4 +1,4 @@
-#### **Título**
+### **Título**
 
 **Sistema de Identificação de Pessoas por Reconhecimento Facial com Filtragem Inteligente Baseada em Gênero e Faixa Etária**
 
@@ -10,7 +10,6 @@
 - Hipótese
 - Objetivo Geral
 - Objetivo Específicos
-- Justificativa
 ---
 ### 2. **[[Fundamentação Teórica]]**
 
