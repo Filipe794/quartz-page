@@ -1,1 +1,1 @@
-1. Formule uma pergunta de pesquisa, de forma clara e direta levando em consideração o delineamento do problema.
+É possível desenvolver um sistema de visão computacional capaz de contar pessoas, identificar o gênero e estimar a faixa etária com alta acurácia e desempenho em tempo real utilizando ferramentas e modelos de código aberto?
