@@ -1,9 +1,9 @@
 ### **Título**
 
-**Sistema de Identificação de Pessoas por Reconhecimento Facial com Filtragem Inteligente Baseada em Gênero e Faixa Etária**
+**Sistema de Reconhecimento Facial com Filtragem por Gênero e Faixa Etária para Identificação de Alunos no IFMA Campus Caxias**
 
 ---
-### 1. **[[Introdução]]**
+### **[[1. Introdução]]**
 
 - Contextualização e apresentação do tema e da delimitação
 - Problema
@@ -11,21 +11,17 @@
 - Objetivo Geral
 - Objetivo Específicos
 ---
-### 2. **[[Fundamentação Teórica]]**
-
-- **Biometria e Identificação Humana**
-    - Características físicas usadas: altura, peso, cor dos olhos, formato do rosto, etc.
-- **Redes Neurais Artificiais**
-- **Aprendizado Supervisionado**
-    - Classificação e regressão.
-- **Redes Neurais Convolucionais (CNNs)**
-- **Dataset e Pré-processamento**
-    - Explicação da importância do balanceamento, normalização, aumento de dados (data augmentation), etc.
-- **Ferramentas**
-    - Python, TensorFlow, Keras, PyTorch, OpenCV.
-
+### **[[2. Fundamentação Teórica]]**
+- 2.1 Processamento Digital de Imagens
+- 2.2 Inteligência Artificial e Aprendizado de Máquina
+- 2.3 Visão Computacional
+- 2.4 Redes Neurais Convolucionais (CNNs)
+- 2.5 Reconhecimento Facial  
+- 2.6 Frameworks e Ferramentas Utilizadas
+- 2.7 Trabalhos Relacionados
 ---
-### 3. **[[Metodologia]]**
+### **[[3. Justificativa]]**
+### **[[4. Metodologia]]**
 
 - Coleta ou uso de base de dados pública.
 - Definição das classes: sexo, idade estimada, etnia
@@ -34,7 +30,7 @@
 - Critérios de avaliação: acurácia, precisão, recall, F1-score, matriz de confusão.
 
 ---
-### 4. **[[Resultados]]**
+### **[[5. Resultados]]**
 
 - Desempenho do modelo nos testes.
 - Comparação entre arquiteturas (se fizer mais de uma).
@@ -42,7 +38,7 @@
 - Análise das limitações do modelo (ex: viés, iluminação, pose da imagem).
 
 ---
-### 5. **[[Conclusão]]**
+### **[[6. Conclusão]]**
 
 - Discussão sobre os resultados.
 - Possíveis aplicações práticas.
@@ -52,12 +48,7 @@
 
 ### Ferramentas e Tecnologias
 - Dataset: [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) (características faciais anotadas), [VGGFace2](https://www.robots.ox.ac.uk/~vgg/data/vgg_face2/), ou datasets gerados com ferramentas como MakeHuman ou StyleGAN.
-
 ### Mapeamento da Pesquisa
-[[Hipóteses]]
-[[Objetivos]]
-[[Motivação]]
-[[Motivação]]
 [[Delineamento do Problema]]
 [[Pergunta de Pesquisa]]
 [[Perguntas Norteadoras]]

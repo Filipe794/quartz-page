@@ -49,3 +49,77 @@ StrongSORT
 Redes Neurais Convolucionais
 FootfallCam - https://www.footfallcam.com/pt/
 Hikvision People Counting - https://www.hikvision.com/pt-br/core-technologies/ai-analytics/people-counting/
+
+
+
+### **Strings de busca em português:**
+
+1. `"reconhecimento facial" AND escola AND "presença automatizada"`
+    
+2. `"reconhecimento facial" AND "ambientes educacionais"`
+    
+3. `"sistema de presença" AND "reconhecimento facial" AND educação`
+    
+4. `"biometria facial" AND escolas AND "inteligência artificial"`
+    
+5. `"visão computacional" AND "identificação de alunos" AND escola`
+    
+6. `"reconhecimento facial" AND ensino AND "monitoramento de alunos"`
+    
+
+### **Strings de busca em inglês (mais resultados internacionais):**
+
+1. `"facial recognition" AND school AND "attendance system"`
+    
+2. `"student identification" AND "facial recognition" AND education`
+    
+3. `"AI-based attendance" AND school AND "facial recognition"`
+    
+4. `"facial biometrics" AND classroom AND monitoring
+    
+5. `"deep learning" AND "facial recognition" AND "educational environment"`
+
+### Trabalhos Acadêmicos e Projetos Aplicados
+
+1. **AttenFace: A Real Time Attendance System using Face Recognition**  
+    Este sistema propõe o uso de reconhecimento facial em tempo real para registrar a presença de alunos em sala de aula. O método utiliza snapshots periódicos para identificar os estudantes presentes, integrando-se a plataformas como o Moodle.
+    
+2. **An Embedded Intelligent System for Attendance Monitoring**  
+    Desenvolvido com Raspberry Pi e câmera, este sistema embarcado realiza o reconhecimento facial para monitoramento de presença, enviando os dados para um servidor remoto. O foco está na eficiência em dispositivos de baixo custo.
+    
+3. **PRESENT: An Android-Based Class Attendance Monitoring System Using Face Recognition Technology**  
+    Aplicativo Android que utiliza reconhecimento facial para facilitar o registro de presença em sala de aula. Avaliado por professores, mostrou-se funcional e confiável, melhorando a gestão do tempo em sala.
+    
+4. **Gerenciamento de presença nas escolas através da biometria facial**  
+    Artigo que discute a implementação de sistemas de biometria facial para controle de presença em instituições de ensino, destacando a precisão e a segurança proporcionadas por essa tecnologia.
+    
+5. **Controle de Presença Escolar Facial: Segurança e Precisão na Educação**  
+    Explora como o reconhecimento facial pode ser integrado ao controle de acesso e presença em escolas, aumentando a segurança e a eficiência administrativa.
+
+### Links
+
+https://olhardigital.com.br/2019/10/24/noticias/professores-brasileiros-realizam-chamada-por-reconhecimento-facial/
+
+https://folhadolitoral.com.br/editorias/educacao/inteligencia-artificial-para-registro-de-presenca-agiliza-processos-na-rede-estadual-de-ensino/
+
+https://www.aracaju.se.gov.br/noticias/104214/escola_tech_reconhecimento_facial_e_totens_digitais_ampliam_seguranca_na_rede_municipal.html
+
+https://portalmaster.com.br/controle-de-presenca-escolar-facial-seguranca-e-precisao-na-educacao/?utm_source=chatgpt.com
+
+https://techmag.com.br/site/2023/02/06/gerenciamento-de-presenca-nas-escolas-atraves-da-biometria-facial/
+
+https://eduface.com.br/
+
+https://publicacoes.ifc.edu.br/index.php/fetec/article/view/4535
+
+https://portalmaster.com.br/controle-de-presenca-escolar-facial-seguranca-e-precisao-na-educacao/
+
+https://portalmaster.com.br/controle-de-presenca-escolar-facial-a-solucao-inovadora-para-instituicoes-de-ensino/
+
+https://veja.abril.com.br/tecnologia/escola-usa-reconhecimento-facial-para-flagrar-alunos-distraidos
+
+https://www.aracaju.se.gov.br/noticias/104214/escola_tech_reconhecimento_facial_e_totens_digitais_ampliam_seguranca_na_rede_municipal.html
+
+https://gammaservicos.com.br/reconhecimento-facial-escolar/
+
+https://folhadolitoral.com.br/editorias/educacao/inteligencia-artificial-para-registro-de-presenca-agiliza-processos-na-rede-estadual-de-ensino/
