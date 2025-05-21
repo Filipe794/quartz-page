@@ -21,6 +21,8 @@
 - 2.7 Trabalhos Relacionados
 ---
 ### **[[3. Justificativa]]**
+
+---
 ### **[[4. Metodologia]]**
 
 - Coleta ou uso de base de dados pública.
